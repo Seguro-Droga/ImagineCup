@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Seguro Droga</string>
+    <string name="order_id_mock" translatable="false">Dolo</string>
+    <string name="price_mock" translatable="false">$25</string>
+    <string name="requests_count_mock" translatable="false">O+ve</string>
+    <string name="requests_count_badge" translatable="false">Blood Group</string>
+    <string name="weight_mock" translatable="false">50</string>
+    <string name="weight_badge" translatable="false">Age</string>
+    <string name="pledge_mock" translatable="false">ME1</string>
+    <string name="pledge_badge" translatable="false">Medicine ID</string>
+    <string name="sender_badge" translatable="false">Patient</string>
+    <string name="client_name_mock" translatable="false">Edward Norton</string>
+    <string name="rating_mock" translatable="false">(26)</string>
+    <string name="from_badge" translatable="false">Manufacturer Name</string>
+    <string name="to_badge" translatable="false">Expiry Date</string>
+    <string name="delivery_date_badge" translatable="false">Contents</string>
+    <string name="delivery_time_mock" translatable="false">Sulphur</string>
+    <string name="delivery_date_mock" translatable="false">May 16, 2016</string>
+    <string name="deadline_badge" translatable="false">Mfd Date</string>
+    <string name="deadline_time_mock" translatable="false">24 minutes</string>
+    <string name="request_btn_text" translatable="false">Remind Me</string>
+    <string name="btn_annotation_mock" translatable="false">5 people have sent a request</string>
+    <string name="content_from1_mock">W 90th St</string>
+    <string name="content_from2_mock">New York, NY 10025</string>
+    <string name="content_to1_mock">20-12-1998</string>
+    <string name="content_to2_mock">Woodside, NY 11101</string>
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="signin_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="signup_redirect">Don\'t have account? Register here..</string>
+</resources>
